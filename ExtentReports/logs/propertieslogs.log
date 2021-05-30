@@ -1,0 +1,17 @@
+[INFO ] 2021-05-29 23:08:15.656 [main] log4jDemo - Information
+[ERROR] 2021-05-29 23:08:15.663 [main] log4jDemo - Error
+[WARN ] 2021-05-29 23:08:15.664 [main] log4jDemo - Warning
+[FATAL] 2021-05-29 23:08:15.664 [main] log4jDemo - Fatal
+[INFO ] 2021-05-29 23:08:15.772 [main] log4jDemo - Information
+[ERROR] 2021-05-29 23:08:15.780 [main] log4jDemo - Error
+[WARN ] 2021-05-29 23:08:15.780 [main] log4jDemo - Warning
+[FATAL] 2021-05-29 23:08:15.780 [main] log4jDemo - Fatal
+[TRACE] 2021-05-29 23:11:13.908 [main] log4jDemo - Starting to trace
+[INFO ] 2021-05-29 23:11:13.917 [main] log4jDemo - Information
+[ERROR] 2021-05-29 23:11:13.918 [main] log4jDemo - Error
+[WARN ] 2021-05-29 23:11:13.919 [main] log4jDemo - Warning
+[FATAL] 2021-05-29 23:11:13.919 [main] log4jDemo - Fatal
+[INFO ] 2021-05-29 23:11:30.161 [main] log4jDemo - Information
+[ERROR] 2021-05-29 23:11:30.168 [main] log4jDemo - Error
+[WARN ] 2021-05-29 23:11:30.169 [main] log4jDemo - Warning
+[FATAL] 2021-05-29 23:11:30.169 [main] log4jDemo - Fatal
